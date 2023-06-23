@@ -1,9 +1,7 @@
 'use client'
 
-import dayjs from "dayjs";
 import './timer.components.css'
 import {useEffect, useState} from "react";
-import * as timers from "timers";
 
 export default function Timer() {
 
